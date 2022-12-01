@@ -1,0 +1,31 @@
+                                                body {
+                                                    background-color: rgb(239, 231, 221);
+                                                }
+                                                
+                                                h1 {
+                                                    color: #735F32;
+                                                }
+                                                
+                                                h3 {
+                                                    color: #8B7E74;
+                                                }
+                                                
+                                                li {
+                                                    color: #8B7E74;
+                                                }
+                                                
+                                                p {
+                                                    color: #8B7E74;
+                                                }
+                                                
+                                                tr {
+                                                    color: #8B7E74;
+                                                }
+                                                
+                                                hr {
+                                                    border-style: none;
+                                                    border-top-style: dotted;
+                                                    border-color: #F2DEBA;
+                                                    border-width: 7px;
+                                                    width: 7%;
+                                                }
